@@ -1,2 +1,2 @@
 # Real2Latent
-Misalignment-Robust Physical Degradation Transfer for Screen-Shooting-Resistant Watermarking
+The code will be released soon.
