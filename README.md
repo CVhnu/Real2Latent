@@ -5,10 +5,10 @@
 <table>
   <tr>
     <td align="center">
-      <img src="https://github.com/CVhnu/Real2Latent/blob/101ffb1bdca7227dcd6a55eb1ecfab5dc1b75a3f/stu.png" width="95%">
+      <img src="https://github.com/CVhnu/Real2Latent/blob/101ffb1bdca7227dcd6a55eb1ecfab5dc1b75a3f/stu.png" width="100%">
     </td>
     <td align="center">
-      <img src="https://github.com/CVhnu/Real2Latent/blob/b7fc3d463c65a03411dcf6e8d634e423d1f29098/cop.png" width="95%">
+      <img src="https://github.com/CVhnu/Real2Latent/blob/b7fc3d463c65a03411dcf6e8d634e423d1f29098/cop.png" width="100%">
     </td>
   </tr>
 </table>
