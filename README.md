@@ -1,8 +1,9 @@
 # Real2Latent: Misalignment-Robust Transfer of Physical Degradations for Screen-Shooting-Resistant Watermarking
 
 ![Image 1](https://github.com/CVhnu/Real2Latent/blob/8267c1b3813768e906dd66a0c21e27fa7752728b/trd%20AND%20ours.png)
+![Image 2](https://github.com/CVhnu/Real2Latent/blob/b7fc3d463c65a03411dcf6e8d634e423d1f29098/cop.png)
 
-<table>
+<!-- <table>
   <tr>
     <td align="center">
       <img src="https://github.com/CVhnu/Real2Latent/blob/101ffb1bdca7227dcd6a55eb1ecfab5dc1b75a3f/stu.png" width="100%">
@@ -11,7 +12,7 @@
       <img src="https://github.com/CVhnu/Real2Latent/blob/b7fc3d463c65a03411dcf6e8d634e423d1f29098/cop.png" width="100%">
     </td>
   </tr>
-</table>
+</table> -->
 
 ## Environment
 
