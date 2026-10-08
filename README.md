@@ -1,6 +1,6 @@
 # Real2Latent: Misalignment-Robust Transfer of Physical Degradations for Screen-Shooting-Resistant Watermarking
 
-![Image 1](https://github.com/CVhnu/sepwater/blob/97651a3fa16365ca4dba0fd1b8307e093e799bb4/EDDD63931DD6647AD4F6321DD9E89398.png)
+![Image 1](https://github.com/CVhnu/Real2Latent/blob/101ffb1bdca7227dcd6a55eb1ecfab5dc1b75a3f/stu.png)
 ![Image 2](https://github.com/CVhnu/sepwater/blob/cbd71d3a4b265640fd10dcb65fe17f7c8dee6d98/26C4C8E6A5B57D70391B5A39B3171BFF.png)
 
 ## Environment
