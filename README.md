@@ -9,10 +9,6 @@ We have tested our code with the following environment:
 * Torchvision 0.15.2
 * CUDA 11.7
 
-## Inference
-
-Run the following script to download the pretrained modified decoder and the original decoder. The provided weights are based on the KL-f4 autoencoder and support 48-bit watermarks.
-
 ### Embedding and Extraction
 
 To generate watermarked images and extract the embedded messages, run:
@@ -49,3 +45,5 @@ python train.py \
 ```
 
 Here, `--message_len` specifies the watermark length in bits, while `--config` specifies the training configuration file.
+
+We will keep this code continuously updated.
