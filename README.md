@@ -65,8 +65,8 @@ To train the modified decoder from scratch, run:
 python train.py \
     --message_len 48 \
     --config configs/train.yaml \
-    --batch_size 8 \
-    --learning_rate 0.00006
+    --batch_size 4 \
+    --learning_rate 0.00003
 ```
 
 Here, `--message_len` specifies the watermark length in bits, while `--config` specifies the training configuration file.
